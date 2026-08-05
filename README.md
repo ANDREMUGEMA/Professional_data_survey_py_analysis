@@ -1,6 +1,6 @@
 # Data Professional Survey — SQL → Python → Power BI Pipeline
 
-An end-to-end data analytics project built on a 630-respondent survey of
+An end-to-end data analytics project built on a 630respondent survey of
 data professionals — role, industry, country, education, salary, six
 satisfaction dimensions, career-switching history, and more.
 
